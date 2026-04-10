@@ -49,7 +49,7 @@ Kwangwoon University (2023 - 2028)
 https://github.com/bellmcp/Machine-Learning-Price-Prediction
 
 - Developed ML model to predict prices with colleagues
-- Increased prediction accuracy by 18%
+- Increased prediction accuracy by 25%
 - Used Python, TensorFlow
 
 ---
